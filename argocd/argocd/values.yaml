@@ -46,7 +46,7 @@ argo-cd:
       repositories: |
         - name: main-repo
           type: git
-          url: https://github.com/kienle1819/-K8s-CICD.git
+          url: https://github.com/mjkvodoi456/K8s-CICD.git
           usernameSecret:
             name: git-creds
             key: username
