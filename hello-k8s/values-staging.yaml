@@ -8,7 +8,7 @@ image:
   tag: '3.0'
   pullPolicy: Always
 
-replicaCount: 3
+replicaCount: 6
 
 resources:
   requests:
